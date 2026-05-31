@@ -165,9 +165,9 @@ const cases = [
     text: "Desenho de solução para centralização de acessos, usuários, perfis, permissões, módulos, governança, fases de implantação, cadastro individual, cadastro em massa e controle por área.",
   },
   {
-    title: "KITDOC Inteligente",
-    text: "Mapeamento e estruturação de melhorias para gestão documental, kits, produtos, regras de documentos, visualização, geração, controle operacional e redução de erros no processo.",
-  },
+  title: "Gestor de Documentos",
+  text: "Mapeamento e estruturação de melhorias para gestão documental, kits, produtos, regras de documentos, visualização, geração, controle operacional e redução de erros no processo.",
+},
   {
     title: "Automação Operacional",
     text: "Estruturação de automações para reduzir processos manuais, organizar filas, controlar status, gerar relatórios, padronizar rotinas e aumentar eficiência operacional.",
